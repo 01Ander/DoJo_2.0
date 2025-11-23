@@ -68,7 +68,7 @@ Cada materia (Python, SQL, QA, Cloud…) vive en `subjects/`, con campañas y mi
 
 ## 3. Estructura del repositorio
 
-
+```text
 dojo-2.0/
 ├─ README.md
 ├─ docs/
@@ -84,7 +84,7 @@ dojo-2.0/
 │ └─ daily-log-template.md
 └─ subjects/
 └─ README.md
-
+```
 
 - `docs/` contiene toda la documentación conceptual.  
 - `templates/` son plantillas reutilizables para campañas, misiones y logs.  

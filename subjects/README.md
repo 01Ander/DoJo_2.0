@@ -25,7 +25,7 @@ Este espacio solo contiene contenido aplicado (campañas, misiones), nunca teor�
 
 Cada materia tendrá su propio directorio y su propio estándar interno:
 
-
+```text
 subjects/
 ├─ python/
 │ ├─ campaigns/
@@ -43,7 +43,7 @@ subjects/
 ├─ automation/
 ├─ data/
 └─ eng-int/
-
+```
 
 
 Las carpetas se añadirán a medida que avances.
@@ -69,14 +69,14 @@ Cada campaña tendrá:
 - Archivos derivados necesarios
 
 Ejemplo:
-
+```text
 ├─ campaign.md
 └─ missions/
 ├─ M01.md
 ├─ M02.md
 ├─ S01.md
 └─ B01.md
-
+```
 
 ---
 
