@@ -84,4 +84,4 @@ Esto evita romper la continuidad psicológica.
 
 ---
 
-El Sistema de Energía garantiza que avances **siempre**, sin castigo, sin caos, sin exigencia excesiva.
+El Sistema de Energía garantiza que se avance **siempre**, sin castigo, sin caos, sin exigencia excesiva.

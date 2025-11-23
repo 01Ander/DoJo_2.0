@@ -3,8 +3,6 @@
 Este directorio organiza todas las materias técnicas y lingüísticas del DoJo 2.0.  
 La finalidad es mantener un orden claro entre campañas, misiones y proyectos reales, sin mezclar teoría, práctica ni documentación conceptual.
 
-Todas las explicaciones se escriben en español.  
-Todos los nombres técnicos, carpetas, archivos y códigos internos se mantienen en inglés.
 
 ---
 

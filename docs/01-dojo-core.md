@@ -8,7 +8,7 @@ El **DoJo 2.0** es un sistema personal de aprendizaje consciente, diseñado para
 - Proyectos reales (Mini-Proyecto Financiero 2.0)
 - Ritmo basado en energía real
 - Desarrollo emocional (journaling, reflexión, terapia)
-- Contexto vital actual (migración, dos trabajos, retorno a Colombia)
+- Contexto vital actual 
 
 ### Significado moderno del acrónimo
 
@@ -31,7 +31,7 @@ El DoJo existe para:
 - Integrar el crecimiento técnico con el emocional.  
 - Sostener el progreso incluso con energía baja.  
 - Convertir el estudio en misiones claras y manejables.  
-- Mantener continuidad durante el proceso migratorio y laboral.
+- Mantener continuidad.
 
 ---
 
