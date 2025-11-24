@@ -59,6 +59,42 @@ Bloques grandes del aprendizaje (Python Básico, SQL, POO, Cloud…).
 ### 4️ Protocolo de Misiones
 Misiones principales (M), secundarias (S), boss missions (B), observación (O), optimización (OPT).
 
+### 4.1 Sistema de Estado del Progreso (Progress Status Codes)
+
+El DoJo 2.0 utiliza un conjunto de códigos de estado para reflejar el avance real de campañas, misiones y proyectos.  
+Este sistema garantiza claridad, orden y consistencia en todo el ecosistema del DoJo.
+
+Estos estados deben usarse de manera uniforme en:
+
+- campañas  
+- misiones (M, S, B, O, OPT)  
+- proyectos  
+- documentación interna  
+- seguimiento y revisión  
+
+#### Estados oficiales
+
+- 🟢 **Ready**  
+  Listo para ejecutarse. Todos los requisitos están cumplidos.
+
+- 🟡 **Pending**  
+  Aún no inicia, pero está planificado como parte del camino.
+
+- 🔵 **In Progress / Diseño**  
+  En diseño, ejecución o desarrollo activo.
+
+- 🔴 **Not Started**  
+  No iniciado y sin prioridad inmediata.
+
+- 🟣 **Blocked**  
+  Detenido por una dependencia o requisito externo.
+
+- 🟤 **Optional**  
+  Ítem no obligatorio que aporta valor extra o exploración.
+
+Este sistema permite visualizar de forma simple en qué punto está cada parte del DoJo y facilita tomar decisiones según energía, prioridades y contexto real.
+
+
 ### 5️ Sistema de Energía
 Según energía del día, se decide el tipo de misión posible.
 
