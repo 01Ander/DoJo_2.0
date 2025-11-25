@@ -113,6 +113,7 @@ dojo-2.0/
 │ ├─ 04-estructura-campanas.md
 │ ├─ 05-estructura-chats-XX-MAIN-EXERCISES-WORK.md
 │ ├─ 06-syllabus-maestro.md
+│ ├─ 07-manual-operativo-misiones.md
 │ └─ CHANGELOG.md
 ├─ templates/
 │ ├─ mission-template.md
